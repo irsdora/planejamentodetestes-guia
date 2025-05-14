@@ -24,7 +24,7 @@ estratégias e ambientes de teste.
 
 
 
-Portanto, com base num planejamento é possível evitar retrabalho, melhorar a qualidade do produto e otimzar tempo e recursos.
+Portanto, com base num planejamento é possível evitar retrabalho, melhorar a qualidade do produto e otimizar tempo e recursos.
 
 
 
